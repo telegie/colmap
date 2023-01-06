@@ -1,3 +1,5 @@
+Archieved: was forked for https://github.com/telegie/consistent_depth, which also has been archieved.
+
 COLMAP
 ======
 
